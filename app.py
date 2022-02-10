@@ -81,3 +81,6 @@ def index():
 if __name__ == "__main__":
     #app.run(host='127.0.0.1', port=8001, debug=True)
 	app.run(debug=True)
+    #https://myflipkartreviewscrapper.herokuapp.com/
+    #Project is deployed in heroku use the above link.
+
